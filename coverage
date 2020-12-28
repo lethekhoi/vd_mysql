@@ -1,0 +1,4 @@
+mode: set
+vd_mysql/main.go:12.52,14.2 1 0
+vd_mysql/main.go:15.13,27.16 12 0
+vd_mysql/main.go:27.16,30.3 1 0
